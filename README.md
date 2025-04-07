@@ -1,7 +1,6 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in rpg, rts, nature and food
-- 🌱 I’m currently learning Astro.js
-- 💞️ I’m looking to collaborate on a project with someone doing backend
+- 💞️ I’m looking to collaborate on projects
 - ⚡ Fun fact: My cat is a dragon
 
 <!---
